@@ -36,11 +36,12 @@ for item in nilai:                                                            ##
 print("==================================================================")
 ```
 - Flowchart
-![FLOWCHART](https://github.com/alviandwipramono/Pratikum5/blob/master/78066986_747638872417758_6048935199843024896_n.png)
+# ![GitHub Logo](flowchart.png)
 
 - Screenshot Input
-![Input](https://github.com/alviandwipramono/Pratikum5/blob/master/Untitled.png)
+# ![GitHub Logo](input.png)
 
 - Screenshot Ouput
-![Output](https://github.com/alviandwipramono/Pratikum5/blob/master/ngopi.png)
+# ![GitHub Logo](output.png)
+
 
